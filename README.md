@@ -18,7 +18,7 @@ Calendário da Copa 2022
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src="github/Preview.png" width="100%">
+  <img alt="Calendário da Copa" src="github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
